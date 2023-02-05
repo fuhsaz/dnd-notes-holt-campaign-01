@@ -1,0 +1,7 @@
+- The party met in a pub in [[Neverwinter]], brought there by two people, [[Sildar Hallwinter]] and [[Gundren Rockseeker]].
+- We need to escort a wagon of supplies to [[Barthen's Provisions]] in the frontier town of [[Phandalin]], and will be paid 10gp each upon arrival.
+- On the way, we found the remnants of an ambush on a wagon, and the horses of [[Sildar Hallwinter]] and [[Gundren Rockseeker]] both there and dead, with no sign of the men.
+- We fought some goblins and then found their trail heading north. We followed it, killed another goblin, and then found their cave.
+- We entered the cave and [[Firby]] allied us with a wolf, [[White Claw]]. There were two other wolves who were more interested in eating than getting revenge on the goblins
+- [[White Claw]] ran ahead, effectively scouting for us. We fought some more [[Goblin]]s and a [[Bugbear]] named Klarg with a pet [[Wolf]] named Ripper. We deliberated too long, allowing them to sneak up on us, but we fortunately saw them before the [[Bugbear]] could get a Sneak Attack.
+- We continued into the cave to find another room with six [[Goblin]]s, one slightly beefier than the others and holding [[Sildar Hallwinter]] near a cliff. They seem to want to negotiate. I want to kill them and loot the cave.
