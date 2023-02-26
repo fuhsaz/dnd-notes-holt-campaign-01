@@ -1,5 +1,5 @@
 ## Current Possessions
-- 100gp
+- 140gp
 - 115sp
 - 600cp
 - 2 potions of healing

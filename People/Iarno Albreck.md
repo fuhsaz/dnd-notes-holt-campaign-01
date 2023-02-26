@@ -5,6 +5,6 @@
 **Past:** [[Phandalin]]
 **Current:** Unknown
 ## Story Points
-- Came to [[Phandalin]] a little while ago, but hasn't been seen in a while
+- Came to [[Phandalin]] a month or two ago, but hasn't been seen in a while
 - [[Sildar Hallwinter]] is hoping to find him
 ## Notes
