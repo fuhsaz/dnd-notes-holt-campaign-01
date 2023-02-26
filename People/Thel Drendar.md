@@ -7,4 +7,5 @@
 **Current:** Dead
 ## Story Points
 - Allegedly killed by the [[Redbrands]]
+- Killed by some [[Redbrands]] after confronting them when they harrassed him and his family at the [[Woodcarver]] which he owned.
 ## Notes
