@@ -28,7 +28,7 @@
 - [[Sleeping Giant Inn]]
 - [[Stonehill Inn]]
 - [[Townmaster's Hall]]
-- [[Woodcarver]]
+- [[Phandalin Woodcarver]]
 ## Nearby Points of Interest
 - [[Old Owl Well]]
 - [[Tresendar Manor]]
