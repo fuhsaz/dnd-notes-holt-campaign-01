@@ -4,7 +4,6 @@
 - 600cp
 - 2 potions of healing
 - Jade statuette of a frog with gold eyes
-- [[Sildar Hallwinter]] owes us 40gp
 ## Expenses
 - 10sp - rooms/food at [[Stonehill Inn]] on the first night in [[Phandalin]]
 ## Past Loot
