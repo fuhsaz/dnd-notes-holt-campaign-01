@@ -4,6 +4,7 @@
 - Druid - Circle of Land
 - Disguise self
 - Invisibility
+- Can cast Detect Magic as a ritual for free
 ## Story Points
 
 ## Notes
