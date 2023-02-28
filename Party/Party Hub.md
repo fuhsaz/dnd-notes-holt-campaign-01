@@ -2,6 +2,6 @@
 - [[Dick Johnson]]
 - [[Braelynn Gaslight]]
 - [[Piuma Stunt]]
-- [[Firby]]
+- [[Firby Mountainhome]]
 
 [[Party Vault]]
