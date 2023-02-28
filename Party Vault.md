@@ -16,7 +16,7 @@
 	- 5 malachite 
 	- 2 potions of healing
 	- A spell scroll - divination school
-	- A sword in a silver scabbard giving on a magical glow -> +1 longsword for Braelynn!
+	- A sword in a silver scabbard with a magical glow -> +1 longsword for [[Braelynn Gaslight]]!
 - [[Phandalin]] - Payment for deliveries
 	- 40gp - [[Elmar Barthen]]
 	- 60gp - [[Linene Graywind]]
