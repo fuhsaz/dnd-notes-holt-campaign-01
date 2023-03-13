@@ -4,4 +4,4 @@
 - [[Piuma Stunt]]
 - [[Firby Mountainhome]]
 
-[[Party Vault]]
+[[Holt Campaign 01/Party/Party Vault]]
