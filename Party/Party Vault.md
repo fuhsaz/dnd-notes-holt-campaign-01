@@ -6,6 +6,7 @@
 - 4 potions of healing
 	- Dick has 1, Piuma has 1, 2 in vault
 - Jade statuette of a frog with gold eyes
+- 3 golden teeth, filed to points
 - A Divination spell scroll
 ## Expenses
 - 10sp - rooms/food at [[Stonehill Inn]] on the first night in [[Phandalin]]
