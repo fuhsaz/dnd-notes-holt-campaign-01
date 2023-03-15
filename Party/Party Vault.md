@@ -3,14 +3,15 @@
 - 275sp
 - 600cp
 - 5 malachite gems
-- 4 potions of healing
-	- Dick has 1, Piuma has 1, 2 in vault
 - Jade statuette of a frog with gold eyes
 - 3 golden teeth, filed to points
 - A Divination spell scroll
 ## Expenses
 - 10sp - rooms/food at [[Stonehill Inn]] on the first night in [[Phandalin]]
+- 4 potions of healing - distributed to party members
 ## Past Loot
+- [[Tresendar Crypt]] - Sarcophagi - Not added yet
+	- Platinum signet ring - 50gp value
 - [[Redbrand Hideout]] - Chest in the ravine
 	- 160 sp
 	- 120 gp
