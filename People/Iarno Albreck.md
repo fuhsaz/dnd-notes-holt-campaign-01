@@ -8,5 +8,6 @@
 - [[Sildar Hallwinter]] is hoping to find him
 - After he arrived in [[Phandalin]], he was planning to go to [[Tresendar Manor]] to investigate the [[Redbrands]], and after that hasn't been seen.
 - Does he have a possible connection to [[Glasstaff]]?
+- He does seem to be [[Glasstaff]]. We caught him.
 ## Notes
 - Member of the [[Lord's Alliance]]

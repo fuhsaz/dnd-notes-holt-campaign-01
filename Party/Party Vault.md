@@ -5,12 +5,13 @@
 - 5 malachite gems
 - Jade statuette of a frog with gold eyes
 - 3 golden teeth, filed to points
-- A Divination spell scroll
+- An Augury spell scroll
+- Platinum signet ring - 50gp value
 ## Expenses
 - 10sp - rooms/food at [[Stonehill Inn]] on the first night in [[Phandalin]]
 - 4 potions of healing - distributed to party members
 ## Past Loot
-- [[Tresendar Crypt]] - Sarcophagi - Not added yet
+- [[Tresendar Crypt]] - Sarcophagi
 	- Platinum signet ring - 50gp value
 - [[Redbrand Hideout]] - Chest in the ravine
 	- 160 sp
