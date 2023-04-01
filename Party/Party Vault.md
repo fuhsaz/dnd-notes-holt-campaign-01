@@ -8,9 +8,32 @@
 - An Augury spell scroll
 - Platinum signet ring - 50gp value
 ## Expenses
+- 50 gp - Piuma learning Web (NYA)
 - 10sp - rooms/food at [[Stonehill Inn]] on the first night in [[Phandalin]]
 - 4 potions of healing - distributed to party members
 ## Past Loot
+- Reward from [[Halia Thornton]] (NYA)
+	- 160 gp
+- Reward from [[Sildar Hallwinter]] (Not Yet Applied)
+	- 200 gp
+- The rest of the [[Redbrands]] hideout (Not Yet Applied)
+	- eyepatch - 50gp
+	- a key, presumably for the cells
+	- a crude map that has [[Kragmaw Castle]]
+	- 75 cp
+	- 55 sp
+	- 15 gp
+	- 120 gp
+	- 2 spell scrolls
+		- scroll of Web
+		- scroll of Call Lightning
+- [[Iarno Albreck]]'s pockets (Not Yet Applied)
+	- Potion of invisibiliy
+	- His glass staff - Staff of Defense
+	- A large pearl which is magical
+	- 50gp
+	- Glasstaff's gems
+	- A very intricate spell scroll
 - [[Tresendar Crypt]] - Sarcophagi
 	- Platinum signet ring - 50gp value
 - [[Redbrand Hideout]] - Chest in the ravine
