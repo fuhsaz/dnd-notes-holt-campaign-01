@@ -11,4 +11,5 @@
 	- He's too by-the-books to accept bribes, they said
 - IS NOT THE REAL HARBIN WESTER
 	- We found weeks-dead body of [[Harbin Wester]] at the bottom of a ravine in the [[Redbrand Hideout]]
+- Was probably being impersonated by a [[Doppelganger]] by the name of [[Vhalak]]
 ## Notes

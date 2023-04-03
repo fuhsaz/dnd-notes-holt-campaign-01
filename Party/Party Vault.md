@@ -1,33 +1,45 @@
-## Current Possessions
-- 260gp
-- 275sp
-- 600cp
-- 5 malachite gems
-- Jade statuette of a frog with gold eyes
-- 3 golden teeth, filed to points
-- An Augury spell scroll
+# Current Possessions
+### Currency
+- 755gp
+- 330sp
+- 675cp
+### Gems/Jewelry
+- Iarno's Gems
+- Malachite Gem x5
 - Platinum signet ring - 50gp value
-## Expenses
-- 50 gp - Piuma learning Web (NYA)
+### Potions
+- Potion of invisibility
+### Spell Scrolls
+- Augury
+- Call Lightning
+### Misc
+- Eyepatch with gems - 50 gp
+- 3 golden teeth, filed to points
+- Jade statuette of a frog with gold eyes
+- Special spell scroll and notes on the [[Forge of Spells]]
+
+# Expenses
+- 50 gp + Web scroll - Piuma learning Web
 - 10sp - rooms/food at [[Stonehill Inn]] on the first night in [[Phandalin]]
 - 4 potions of healing - distributed to party members
-## Past Loot
-- Reward from [[Halia Thornton]] (NYA)
+
+# Past Loot
+- Reward from [[Halia Thornton]]
 	- 160 gp
-- Reward from [[Sildar Hallwinter]] (Not Yet Applied)
+- Reward from [[Sildar Hallwinter]]
 	- 200 gp
-- The rest of the [[Redbrands]] hideout (Not Yet Applied)
+- The rest of the [[Redbrands]] hideout
 	- eyepatch - 50gp
 	- a key, presumably for the cells
-	- a crude map that has [[Kragmaw Castle]]
+	- a crude map that has [[Cragmaw Castle]]
 	- 75 cp
 	- 55 sp
 	- 15 gp
 	- 120 gp
 	- 2 spell scrolls
-		- scroll of Web
+		- scroll of Web (learned)
 		- scroll of Call Lightning
-- [[Iarno Albreck]]'s pockets (Not Yet Applied)
+- [[Iarno Albreck]]'s pockets
 	- Potion of invisibiliy
 	- His glass staff - Staff of Defense
 	- A large pearl which is magical
