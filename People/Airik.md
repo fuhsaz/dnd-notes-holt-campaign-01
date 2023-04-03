@@ -5,5 +5,7 @@
 **Past:** [[Phandalin]]
 **Current:** Dead
 ## Story Points
-
+- Turns out he's the father of [[Mirna Drendar]]
+- He and his family left [[Thundertree]] when it was hit by volcanic activity
+- If we go there and get his research notes and equipment, [[Mirna Drendar]] thinks she can help
 ## Notes
