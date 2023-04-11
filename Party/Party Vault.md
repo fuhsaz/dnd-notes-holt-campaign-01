@@ -17,6 +17,9 @@
 - 3 golden teeth, filed to points
 - Jade statuette of a frog with gold eyes
 - Special spell scroll and notes on the [[Forge of Spells]]
+- Chalice - 120 gp
+- Ritual knife - 60 gp
+- Gold censer - 120 gp
 
 # Expenses
 - 50 gp + Web scroll - Piuma learning Web
@@ -24,6 +27,10 @@
 - 4 potions of healing - distributed to party members
 
 # Past Loot
+- Goblin chapel
+	- Chalice - 120 gp
+	- Knife - 60 gp
+	- Censer - 120 gp
 - Reward from [[Halia Thornton]]
 	- 160 gp
 - Reward from [[Sildar Hallwinter]]

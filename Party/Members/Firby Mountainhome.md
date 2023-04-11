@@ -5,6 +5,7 @@
 - Disguise self
 - Invisibility
 - Can cast Detect Magic as a ritual for free
+- Shielding staff - can cast mage armor and shield a few times, also raises his AC by 1
 ## Story Points
 
 ## Notes
