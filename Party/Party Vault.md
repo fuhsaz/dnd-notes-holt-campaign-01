@@ -27,6 +27,9 @@
 - 4 potions of healing - distributed to party members
 
 # Past Loot
+- Goblin chapel (pt 2) (NYA)
+	- Gold statuette - 100gp
+		- Has a divination magical aura
 - Goblin chapel
 	- Chalice - 120 gp
 	- Knife - 60 gp
