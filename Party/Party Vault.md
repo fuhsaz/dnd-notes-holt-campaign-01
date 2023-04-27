@@ -20,6 +20,9 @@
 - Chalice - 120 gp
 - Ritual knife - 60 gp
 - Gold censer - 120 gp
+- Gold statuette - 100gp
+	- Has a magical aura (School of Divination)
+- Magical-looking glaive
 
 # Expenses
 - 50 gp + Web scroll - Piuma learning Web
@@ -27,7 +30,9 @@
 - 4 potions of healing - distributed to party members
 
 # Past Loot
-- Goblin chapel (pt 2) (NYA)
+- King Grol, not fully looted
+	- A magical-looking glaive
+- Goblin chapel (pt 2)
 	- Gold statuette - 100gp
 		- Has a divination magical aura
 - Goblin chapel
