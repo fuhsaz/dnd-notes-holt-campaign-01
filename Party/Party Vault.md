@@ -1,7 +1,8 @@
 # Current Possessions
 ### Currency
-- 755gp
-- 330sp
+- 975gp
+- 250ep
+- 550sp
 - 675cp
 ### Gems/Jewelry
 - Iarno's Gems
@@ -9,9 +10,12 @@
 - Platinum signet ring - 50gp value
 ### Potions
 - Potion of invisibility
+- 2 Potions of healing
 ### Spell Scrolls
 - Augury
 - Call Lightning
+- Revivify
+- Silence
 ### Misc
 - Eyepatch with gems - 50 gp
 - 3 golden teeth, filed to points
@@ -22,7 +26,12 @@
 - Gold censer - 120 gp
 - Gold statuette - 100gp
 	- Has a magical aura (School of Divination)
+	- Any non-evil creature can speak to it, ask it a question, and receive a feeling as if they'd cast Augury. Only one question ever, per creature.
+	- Has been used by [[Gundren Rockseeker]], so he can't use it again
 - Magical-looking glaive
+	- +1 glaive!
+- Map to [[Wave Echo Cave]]
+- Sildar's Equipment
 
 # Expenses
 - 50 gp + Web scroll - Piuma learning Web
@@ -30,7 +39,21 @@
 - 4 potions of healing - distributed to party members
 
 # Past Loot
-- King Grol, not fully looted
+- Storage room
+	- Sildar's equipment
+- Chest from the Owl Bear room
+	- 90 electrum
+	- 120 gp
+	- shattered potion of healing
+	- 2 spell scrolls
+		- Silence
+		- Revivify
+- Grol's room
+	- 220 sp
+	- 160 electrum
+	- 2 potions of healing
+	- A map
+- King Grol
 	- A magical-looking glaive
 - Goblin chapel (pt 2)
 	- Gold statuette - 100gp
