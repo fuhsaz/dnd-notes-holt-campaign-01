@@ -1,44 +1,45 @@
 # Current Possessions
 ### Currency
-- 975gp
+- 1572gp
 - 250ep
-- 550sp
+- 545sp
 - 675cp
 ### Gems/Jewelry
-- Iarno's Gems
-- Malachite Gem x5
-- Platinum signet ring - 50gp value
 ### Potions
 - Potion of invisibility
 - 2 Potions of healing
 ### Spell Scrolls
-- Augury
 - Call Lightning
 - Revivify
 - Silence
 ### Misc
-- Eyepatch with gems - 50 gp
-- 3 golden teeth, filed to points
-- Jade statuette of a frog with gold eyes
 - Special spell scroll and notes on the [[Forge of Spells]]
-- Chalice - 120 gp
-- Ritual knife - 60 gp
-- Gold censer - 120 gp
 - Gold statuette - 100gp
 	- Has a magical aura (School of Divination)
 	- Any non-evil creature can speak to it, ask it a question, and receive a feeling as if they'd cast Augury. Only one question ever, per creature.
 	- Has been used by [[Gundren Rockseeker]], so he can't use it again
-- Magical-looking glaive
-	- +1 glaive!
 - Map to [[Wave Echo Cave]]
-- Sildar's Equipment
+- Displacement beast skin
 
 # Expenses
+- 100gp + Augury scroll - Piuma learning Augury
 - 50 gp + Web scroll - Piuma learning Web
 - 10sp - rooms/food at [[Stonehill Inn]] on the first night in [[Phandalin]]
 - 4 potions of healing - distributed to party members
+- 5 sp - Dick's beaver hat
+- 200 gp - initial payment for armor (another 200gp + extra for Braelynn's pretty blue armor due at pickup, will pick up from the smithy)
+- 3 gp, 3 javelins for Dick
 
 # Past Loot
+- Selling loot 
+	- Malachite: 5 x 15gp
+	- Iarno's: 150gp
+	- Eyepatch: 25p
+	- Ring, teeth, statue, gold relics: 150gp
+- Reward for finding Gundren 
+	- 500 gp
+- Displacement beasts NYA
+	- Enough skin for a fur or a hat, not a cloak
 - Storage room
 	- Sildar's equipment
 - Chest from the Owl Bear room
