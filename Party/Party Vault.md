@@ -1,10 +1,13 @@
 # Current Possessions
 ### Currency
-- 1572gp
-- 250ep
-- 545sp
-- 675cp
+- 5 pp
+- 1000 gp
+- 250 ep
+- 580 sp
+- 675 cp
 ### Gems/Jewelry
+- 1 pearl (100gp)
+- 2 platinum rings
 ### Potions
 - Potion of invisibility
 - 2 Potions of healing
@@ -18,10 +21,25 @@
 	- Has a magical aura (School of Divination)
 	- Any non-evil creature can speak to it, ask it a question, and receive a feeling as if they'd cast Augury. Only one question ever, per creature.
 	- Has been used by [[Gundren Rockseeker]], so he can't use it again
+	- Has been used by Dick
+	- Has been used by Firby
 - Map to [[Wave Echo Cave]]
-- Displacement beast skin
+- Displacer beast skin
+- Vial of Wyvern Poison
+- Sending Stone
+- Ring of Protection
+- Wand (unknown)
 
 # Expenses
+- Revivify scroll (nya)
+- Dynamite x 5 - 150gp
+- Buying supplies - 442gp
+	- Other half of payment for 2 sets of splint mail - 200gp
+	- Crowbar - 2gp
+	- Grappling hook - 2gp
+	- Sledge Hammer - 2gpch
+	- 200 gp - gilded acorn for Firby to cast
+	- Climber's kit x 3 - 36gp
 - 100gp + Augury scroll - Piuma learning Augury
 - 50 gp + Web scroll - Piuma learning Web
 - 10sp - rooms/food at [[Stonehill Inn]] on the first night in [[Phandalin]]
@@ -31,6 +49,26 @@
 - 3 gp, 3 javelins for Dick
 
 # Past Loot
+- Dwarven temple (nya)
+	- 190 ep
+	- 130 gp
+	- 15 pp
+	- 9 small gemstones (10gp ea)
+	- Dwarven ale mug of electrum (from WEC area 19)
+- Goblin ambush (nya)
+	- Possibly magical whip
+	- Possibly magical gauntlets
+- Sunken skeleton
+	- 2 platinum rings
+	- A wand
+- Red Wizard Campsite Chest 
+	- 35 sp
+	- 20 gp
+	- 5 pp
+	- 1 pearl (100gp)
+- Assassins 
+	- vial of poison (Vial of Wyvern Poison)
+	- magic stone (Sending Stone)
 - Selling loot 
 	- Malachite: 5 x 15gp
 	- Iarno's: 150gp
